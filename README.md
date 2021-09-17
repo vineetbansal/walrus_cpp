@@ -1,5 +1,4 @@
-![CI](https://github.com/vineetbansal/walrus/workflows/CI/badge.svg)
-
+[![Main](https://github.com/vineetbansal/walrus/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/vineetbansal/walrus/actions/workflows/main.yml)
 
 # walrus 
 
