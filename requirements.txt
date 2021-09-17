@@ -1,0 +1,9 @@
+auditwheel
+cmake>=3.13
+numpy
+peigen
+pybind11
+pytest
+setuptools
+twine
+wheel
