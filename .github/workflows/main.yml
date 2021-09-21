@@ -32,6 +32,7 @@ jobs:
       - name: Install global pyenv dependencies
         run: |
           which python
+          python --version
           python -m pip install --upgrade pip 
           python -m pip install --upgrade virtualenv
           python -m pip install --upgrade nox 
@@ -43,4 +44,4 @@ jobs:
 
       - name: Test with nox
         run: |
-          nox 
+          python -m nox 
