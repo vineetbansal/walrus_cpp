@@ -1,5 +1,5 @@
-Paula
-=====
+Walrus
+======
 
 A Hybrid Python/C++ Application with CI Testing.
 
